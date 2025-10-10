@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T16:47:59.713101Z",
+  "updated_at": "2025-10-10T18:46:59.750622Z",
   "entries": [
     {
       "name": "hero-component",
@@ -328,6 +328,31 @@
           "middleware",
           "utility"
         ]
+      }
+    },
+    {
+      "name": "circuit-breaker",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A TypeScript circuit breaker implementation for fault-tolerant applications. Provides protection against cascading failures by automatically detecting and preventing calls to failing services.",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/circuit-breaker-0.1.0/circuit-breaker-0.1.0.tgz",
+      "checksum": "4038947b331a5851b1b026901e319db6651d5b5d97cb609e0365fe929f70a8b1",
+      "publishedAt": "2025-10-10T18:46:59.750600Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "circuit-breaker",
+          "fault-tolerance",
+          "resilience",
+          "service-mesh"
+        ],
+        "components": [
+          "typescript",
+          "nodejs"
+        ],
+        "frameworks": []
       }
     }
   ]
