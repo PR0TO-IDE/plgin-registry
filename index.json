@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T09:47:36.520948Z",
+  "updated_at": "2025-10-10T11:47:24.801724Z",
   "entries": [
     {
       "name": "hero-component",
@@ -193,6 +193,31 @@
           "cache",
           "monitoring"
         ]
+      }
+    },
+    {
+      "name": "lowdb-json-file-adapter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A lightweight JSON file adapter for simple file-based database storage",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/lowdb-json-file-adapter-0.1.0/lowdb-json-file-adapter-0.1.0.tgz",
+      "checksum": "c8330b1edea3629d6c57398b126e27a49a88976f105bd68a0d148e663a4cf5c8",
+      "publishedAt": "2025-10-10T11:47:24.801705Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "json-storage",
+          "file-database",
+          "data-persistence"
+        ],
+        "components": [
+          "database",
+          "storage",
+          "file-system"
+        ],
+        "frameworks": []
       }
     }
   ]
