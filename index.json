@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T19:47:40.344187Z",
+  "updated_at": "2025-10-10T21:47:53.361647Z",
   "entries": [
     {
       "name": "hero-component",
@@ -376,6 +376,36 @@
           "deduplication"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "serverless-rate-limiter-127f17f9",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A lightweight rate limiting library specifically designed for serverless runtimes with Redis backend, supporting fixed window, sliding window, and token bucket algorithms.",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/serverless-rate-limiter-127f17f9-0.1.0/serverless-rate-limiter-127f17f9-0.1.0.tgz",
+      "checksum": "968ad2de0b491739b367ccf6c140e721819425bf619d83b1d1710da00af355fd",
+      "publishedAt": "2025-10-10T21:47:53.361628Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "serverless",
+          "redis",
+          "throttling"
+        ],
+        "frameworks": [
+          "nodejs",
+          "typescript",
+          "express",
+          "nextjs"
+        ],
+        "components": [
+          "middleware",
+          "utility"
+        ]
       }
     }
   ]
