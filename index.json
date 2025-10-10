@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T00:47:44.571511Z",
+  "updated_at": "2025-10-10T00:52:59.128903Z",
   "entries": [
     {
       "name": "hero-component",
@@ -82,6 +82,18 @@
       "checksum": "9d943e293eb6412bb05278babfb983c4424dbd4a9303e647a3f211f0a842dcf8",
       "publishedAt": "2025-10-10T00:47:44.571488Z",
       "author": "community"
+    },
+    {
+      "name": "bloom-filter",
+      "version": "0.1.1",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Pack extracted from test_feature/bloom_source using embed-first pipeline.",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-0.1.1/bloom-filter-0.1.1.tgz",
+      "checksum": "380ee62bef771cfe88d524854a4eac024f5761c4e993afee709c941a83c219e1",
+      "publishedAt": "2025-10-10T00:52:59.128889Z",
+      "author": "pr0tobot"
     }
   ]
 }
