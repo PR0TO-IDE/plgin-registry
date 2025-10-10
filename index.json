@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-05T22:29:38.042336Z",
+  "updated_at": "2025-10-10T00:47:24.155280Z",
   "entries": [
     {
       "name": "hero-component",
@@ -58,6 +58,18 @@
           "icon-based actions"
         ]
       }
+    },
+    {
+      "name": "simple-util",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Agentic pack generated from prompt: test_feature",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/simple-util-0.1.0/simple-util-0.1.0.tgz",
+      "checksum": "29e3b60a1836be6fae9ff6e1184a85200dbdfb3b2d9820fb78e2dde5f72e1b66",
+      "publishedAt": "2025-10-10T00:47:24.155265Z",
+      "author": "pr0tobot"
     }
   ]
 }
