@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T12:49:13.192613Z",
+  "updated_at": "2025-10-10T13:49:34.211178Z",
   "entries": [
     {
       "name": "hero-component",
@@ -245,6 +245,32 @@
         "components": [
           "data-structures",
           "algorithms"
+        ]
+      }
+    },
+    {
+      "name": "hyperloglog",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "HyperLogLog algorithm for cardinality estimation with extreme memory efficiency",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/hyperloglog-0.1.0/hyperloglog-0.1.0.tgz",
+      "checksum": "5080eec3fa92412f479144fc911ad9b880ae7beedc92f3e711153b9ba15491b7",
+      "publishedAt": "2025-10-10T13:49:34.211162Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "cardinality-estimation",
+          "probabilistic-counting",
+          "memory-efficient"
+        ],
+        "components": [
+          "algorithms",
+          "data-structures"
+        ],
+        "frameworks": [
+          "python"
         ]
       }
     }
