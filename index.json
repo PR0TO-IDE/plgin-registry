@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T18:46:59.750622Z",
+  "updated_at": "2025-10-10T19:47:40.344187Z",
   "entries": [
     {
       "name": "hero-component",
@@ -351,6 +351,29 @@
         "components": [
           "typescript",
           "nodejs"
+        ],
+        "frameworks": []
+      }
+    },
+    {
+      "name": "bloom-filter-5d5841ef",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of Bloom Filter probabilistic data structure for efficient membership testing and deduplication",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-5d5841ef-0.1.0/bloom-filter-5d5841ef-0.1.0.tgz",
+      "checksum": "708887eb6682b2c2f7cbbcf9f7b64f3b83b9d672fab864a799753ed5bdad7dd0",
+      "publishedAt": "2025-10-10T19:47:40.344166Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "data-structure"
+        ],
+        "features": [
+          "probabilistic",
+          "membership-testing",
+          "deduplication"
         ],
         "frameworks": []
       }
