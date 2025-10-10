@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T15:48:09.576385Z",
+  "updated_at": "2025-10-10T16:47:59.713101Z",
   "entries": [
     {
       "name": "hero-component",
@@ -295,6 +295,34 @@
           "redis",
           "distributed",
           "api-security"
+        ],
+        "components": [
+          "middleware",
+          "utility"
+        ]
+      }
+    },
+    {
+      "name": "rate-limiter",
+      "version": "0.1.0",
+      "languages": [
+        "javascript"
+      ],
+      "description": "Advanced job scheduler and rate limiter with clustering support for JavaScript applications",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/rate-limiter-0.1.0/rate-limiter-0.1.0.tgz",
+      "checksum": "42445a470c128fc703efff8b7eaf6be1d42a7d7fc08cfbd621086134d5b7e338",
+      "publishedAt": "2025-10-10T16:47:59.713077Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "job-scheduling",
+          "clustering",
+          "throttling"
+        ],
+        "frameworks": [
+          "nodejs",
+          "javascript"
         ],
         "components": [
           "middleware",
