@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T07:47:33.016779Z",
+  "updated_at": "2025-10-10T09:47:36.520948Z",
   "entries": [
     {
       "name": "hero-component",
@@ -164,6 +164,35 @@
         ],
         "frameworks": [],
         "components": []
+      }
+    },
+    {
+      "name": "serverless-rate-limiter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Serverless rate limiting library optimized for Redis-backed distributed rate limiting with analytics and caching",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/serverless-rate-limiter-0.1.0/serverless-rate-limiter-0.1.0.tgz",
+      "checksum": "e1780206b5cd102d4a756f810252bae6a5e388ea4239f2a5ff647d987c2b8652",
+      "publishedAt": "2025-10-10T09:47:36.520929Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "serverless",
+          "redis",
+          "distributed",
+          "analytics"
+        ],
+        "frameworks": [
+          "node.js",
+          "typescript"
+        ],
+        "components": [
+          "cache",
+          "monitoring"
+        ]
       }
     }
   ]
