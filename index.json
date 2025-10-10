@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T21:47:53.361647Z",
+  "updated_at": "2025-10-10T23:46:53.980504Z",
   "entries": [
     {
       "name": "hero-component",
@@ -405,6 +405,34 @@
         "components": [
           "middleware",
           "utility"
+        ]
+      }
+    },
+    {
+      "name": "bloom-filter-5ee9f64d",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of Bloom Filter probabilistic data structure with efficient memory usage and false-positive rate control",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-5ee9f64d-0.1.0/bloom-filter-5ee9f64d-0.1.0.tgz",
+      "checksum": "53271667e005bc246c4bad4609568043c0e9ddacaca45a78654972902639ef4e",
+      "publishedAt": "2025-10-10T23:46:53.980486Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structure",
+          "memory-efficient",
+          "false-positive-control"
+        ],
+        "frameworks": [
+          "typescript",
+          "nodejs"
+        ],
+        "components": [
+          "data-structures",
+          "utilities"
         ]
       }
     }
