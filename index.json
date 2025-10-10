@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-10T04:47:20.912315Z",
+  "updated_at": "2025-10-10T07:47:33.016779Z",
   "entries": [
     {
       "name": "hero-component",
@@ -143,6 +143,27 @@
         "components": [
           "data-structures"
         ]
+      }
+    },
+    {
+      "name": "bloom-filter-js",
+      "version": "0.2.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of Bloom Filter probabilistic data structure",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-js-0.2.0/bloom-filter-js-0.2.0.tgz",
+      "checksum": "ff962f55b6994872faba8c75e08770c646e56ee06954f3f3fa8e060c52edb4fe",
+      "publishedAt": "2025-10-10T07:47:33.016765Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structure",
+          "data-structure"
+        ],
+        "frameworks": [],
+        "components": []
       }
     }
   ]
