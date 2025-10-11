@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T13:47:12.820013Z",
+  "updated_at": "2025-10-11T15:48:50.909651Z",
   "entries": [
     {
       "name": "hero-component",
@@ -567,6 +567,34 @@
           "data-structures"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "probabilistic-bloom-filter",
+      "version": "0.1.1",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of probabilistic Bloom Filter data structure for efficient membership testing with false positive guarantees",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/probabilistic-bloom-filter-0.1.1/probabilistic-bloom-filter-0.1.1.tgz",
+      "checksum": "6ecdc7d330d925c186b73e1b148873ad9cc87486c025b4cfbfb54fc65e83845c",
+      "publishedAt": "2025-10-11T15:48:50.909632Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structure",
+          "membership-testing",
+          "false-positive-control"
+        ],
+        "frameworks": [
+          "typescript",
+          "javascript"
+        ],
+        "components": [
+          "data-structure",
+          "algorithm"
+        ]
       }
     }
   ]
