@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T02:48:07.999813Z",
+  "updated_at": "2025-10-11T06:48:11.604064Z",
   "entries": [
     {
       "name": "hero-component",
@@ -458,6 +458,34 @@
         ],
         "frameworks": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "bloom-filter-probabilistic",
+      "version": "0.1.1",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Production-ready probabilistic Bloom Filter implementation for TypeScript with bit-level optimizations and configurable false positive rates",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-probabilistic-0.1.1/bloom-filter-probabilistic-0.1.1.tgz",
+      "checksum": "6e7042d55d13840587c268c6cb09bf852f784c512afefb539430bd2df12af6f0",
+      "publishedAt": "2025-10-11T06:48:11.604046Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structures",
+          "bit-optimization",
+          "false-positive-control"
+        ],
+        "components": [
+          "data-structures"
+        ],
+        "frameworks": [
+          "typescript",
+          "node",
+          "browser"
         ]
       }
     }
