@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T15:48:50.909651Z",
+  "updated_at": "2025-10-11T16:48:12.005568Z",
   "entries": [
     {
       "name": "hero-component",
@@ -595,6 +595,32 @@
           "data-structure",
           "algorithm"
         ]
+      }
+    },
+    {
+      "name": "binary-search-algorithm",
+      "version": "1.0.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A high-performance binary search algorithm implementation for finding elements in sorted arrays with O(log n) time complexity",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/binary-search-algorithm-1.0.0/binary-search-algorithm-1.0.0.tgz",
+      "checksum": "372564cb985a72626ca5e1ae868fff723ab509b05ed642a64509c85f03a9044a",
+      "publishedAt": "2025-10-11T16:48:12.005541Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "binary-search",
+          "algorithm",
+          "search",
+          "sorted-array",
+          "logarithmic-time"
+        ],
+        "components": [
+          "algorithm",
+          "search-engine"
+        ],
+        "frameworks": []
       }
     }
   ]
