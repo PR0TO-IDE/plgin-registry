@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T08:47:59.805110Z",
+  "updated_at": "2025-10-11T12:49:07.615937Z",
   "entries": [
     {
       "name": "hero-component",
@@ -514,6 +514,34 @@
         "components": [
           "redis",
           "backend"
+        ]
+      }
+    },
+    {
+      "name": "probabilistic-bloom-filter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A TypeScript implementation of probabilistic bloom filters with bit-level optimization and space-efficient storage",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/probabilistic-bloom-filter-0.1.0/probabilistic-bloom-filter-0.1.0.tgz",
+      "checksum": "6db9a4d3001755940ceaffa99b24ab8726d508cfb41752cf8ca160bdd7225e9f",
+      "publishedAt": "2025-10-11T12:49:07.615916Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "probabilistic-data-structure",
+          "bloom-filter",
+          "hash-set",
+          "space-optimization"
+        ],
+        "components": [
+          "data-structure",
+          "algorithms"
+        ],
+        "frameworks": [
+          "typescript",
+          "nodejs"
         ]
       }
     }
