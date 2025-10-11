@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T19:47:00.662432Z",
+  "updated_at": "2025-10-11T21:48:02.704293Z",
   "entries": [
     {
       "name": "hero-component",
@@ -648,6 +648,29 @@
           "nodejs",
           "typescript"
         ]
+      }
+    },
+    {
+      "name": "callidon-bloom-filter",
+      "version": "1.0.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A TypeScript implementation of the classic probabilistic Bloom Filter data structure for efficient membership testing with configurable false positive rates",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/callidon-bloom-filter-1.0.0/callidon-bloom-filter-1.0.0.tgz",
+      "checksum": "36ead55c6da4aa312ea60f5f7a03b95539b13dde23172ef53ead0eafae4dc1b9",
+      "publishedAt": "2025-10-11T21:48:02.704267Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "data-structures"
+        ],
+        "features": [
+          "probabilistic",
+          "membership-testing",
+          "false-positive-control"
+        ],
+        "frameworks": []
       }
     }
   ]
