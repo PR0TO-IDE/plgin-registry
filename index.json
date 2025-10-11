@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T21:48:02.704293Z",
+  "updated_at": "2025-10-11T22:47:09.114935Z",
   "entries": [
     {
       "name": "hero-component",
@@ -671,6 +671,28 @@
           "false-positive-control"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "ratelimit-redis",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Redis-based rate limiting library specifically designed for serverless runtimes with adaptive algorithms",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/ratelimit-redis-0.1.0/ratelimit-redis-0.1.0.tgz",
+      "checksum": "9d85b57eb1197cc7e56921bcfeda316c434c60660e153810a046bfc37dd01f44",
+      "publishedAt": "2025-10-11T22:47:09.114908Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "redis",
+          "serverless",
+          "adaptive-algorithms"
+        ],
+        "frameworks": [],
+        "components": []
       }
     }
   ]
