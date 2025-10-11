@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T06:48:11.604064Z",
+  "updated_at": "2025-10-11T08:47:59.805110Z",
   "entries": [
     {
       "name": "hero-component",
@@ -486,6 +486,34 @@
           "typescript",
           "node",
           "browser"
+        ]
+      }
+    },
+    {
+      "name": "rate-limiter-fcdfcd3a",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Serverless rate limiting library for serverless runtimes with Redis backend - lightweight and efficient API rate control for cloud functions",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/rate-limiter-fcdfcd3a-0.1.0/rate-limiter-fcdfcd3a-0.1.0.tgz",
+      "checksum": "507ff652214ade3af62dd972b7d90199bb1017a8b98e083fb83413127cb85093",
+      "publishedAt": "2025-10-11T08:47:59.805088Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "serverless",
+          "api-rate-control"
+        ],
+        "frameworks": [
+          "nodejs",
+          "typescript",
+          "serverless"
+        ],
+        "components": [
+          "redis",
+          "backend"
         ]
       }
     }
