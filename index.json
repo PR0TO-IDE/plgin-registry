@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T14:47:35.816680Z",
+  "updated_at": "2025-10-12T19:47:51.252427Z",
   "entries": [
     {
       "name": "hero-component",
@@ -908,6 +908,28 @@
           "api-throttling",
           "request-management"
         ]
+      }
+    },
+    {
+      "name": "serverless-rate-limiter-ed6f8720",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Rate limiting library specifically designed for serverless runtimes with Redis backend",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/serverless-rate-limiter-ed6f8720-0.1.0/serverless-rate-limiter-ed6f8720-0.1.0.tgz",
+      "checksum": "a41d621e0db7302915cff66f90aafff332cb3c143259e64a12ebe6f0aed64923",
+      "publishedAt": "2025-10-12T19:47:51.252405Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "serverless",
+          "redis",
+          "api-security"
+        ],
+        "frameworks": [],
+        "components": []
       }
     }
   ]
