@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T10:48:40.170931Z",
+  "updated_at": "2025-10-12T11:48:04.566416Z",
   "entries": [
     {
       "name": "hero-component",
@@ -853,6 +853,34 @@
         ],
         "components": [
           "middleware"
+        ]
+      }
+    },
+    {
+      "name": "probabilistic-bloom-filter",
+      "version": "0.2.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of probabilistic Bloom Filter data structure with advanced features including counting, partitioning, and scalability",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/probabilistic-bloom-filter-0.2.0/probabilistic-bloom-filter-0.2.0.tgz",
+      "checksum": "1eb3081dc7d9cee33dc49d482417bc85cb141f933fcb133a5e7c1273a3975779",
+      "publishedAt": "2025-10-12T11:48:04.566393Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "probabilistic-data-structures",
+          "bloom-filter",
+          "hash-based",
+          "memory-efficient"
+        ],
+        "frameworks": [
+          "typescript",
+          "nodejs"
+        ],
+        "components": [
+          "data-structures",
+          "algorithms"
         ]
       }
     }
