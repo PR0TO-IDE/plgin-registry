@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-11T23:47:19.357014Z",
+  "updated_at": "2025-10-12T00:47:24.596548Z",
   "entries": [
     {
       "name": "hero-component",
@@ -716,6 +716,31 @@
           "data-structures"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "gradient-terminal",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Beautiful color gradients in terminal output with TypeScript",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/gradient-terminal-0.1.0/gradient-terminal-0.1.0.tgz",
+      "checksum": "88ec24d3dea08f91f1e0ed5404420d3b855d447399714fc120b9f39960b53827",
+      "publishedAt": "2025-10-12T00:47:24.596526Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "color-gradient",
+          "terminal-styling",
+          "console-formatting"
+        ],
+        "components": [
+          "cli"
+        ],
+        "frameworks": [
+          "nodejs"
+        ]
       }
     }
   ]
