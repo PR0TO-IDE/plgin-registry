@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T07:47:33.148672Z",
+  "updated_at": "2025-10-12T08:48:24.514618Z",
   "entries": [
     {
       "name": "hero-component",
@@ -816,6 +816,18 @@
           "hash-based"
         ]
       }
+    },
+    {
+      "name": "js-bloom-filter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Pack extracted from pack_source using embed-first pipeline.",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/js-bloom-filter-0.1.0/js-bloom-filter-0.1.0.tgz",
+      "checksum": "67712ac8d27a26742a00cfca3488dfb8e9605430a3f11c769a9907a6883f8a2f",
+      "publishedAt": "2025-10-12T08:48:24.514591Z",
+      "author": "community"
     }
   ]
 }
