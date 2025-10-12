@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T08:48:24.514618Z",
+  "updated_at": "2025-10-12T10:48:40.170931Z",
   "entries": [
     {
       "name": "hero-component",
@@ -828,6 +828,33 @@
       "checksum": "67712ac8d27a26742a00cfca3488dfb8e9605430a3f11c769a9907a6883f8a2f",
       "publishedAt": "2025-10-12T08:48:24.514591Z",
       "author": "community"
+    },
+    {
+      "name": "upstash-serverless-rate-limiter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Production-ready rate limiting library specifically designed for serverless runtimes with Redis backend and analytics",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/upstash-serverless-rate-limiter-0.1.0/upstash-serverless-rate-limiter-0.1.0.tgz",
+      "checksum": "a36bdc07ec882e48ce0a79d95087b5ee29eaf4e084ea0a00d263de0fd2fc477d",
+      "publishedAt": "2025-10-12T10:48:40.170908Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "serverless",
+          "redis",
+          "analytics"
+        ],
+        "frameworks": [
+          "nodejs",
+          "typescript"
+        ],
+        "components": [
+          "middleware"
+        ]
+      }
     }
   ]
 }
