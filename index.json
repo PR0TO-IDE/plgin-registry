@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T01:47:01.578082Z",
+  "updated_at": "2025-10-12T06:47:14.863002Z",
   "entries": [
     {
       "name": "hero-component",
@@ -766,6 +766,30 @@
         "frameworks": [
           "standalone"
         ]
+      }
+    },
+    {
+      "name": "ts-bloom-filter-probabilistic",
+      "version": "1.0.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of probabilistic Bloom Filter data structure with bit-level operations and memory-efficient storage",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/ts-bloom-filter-probabilistic-1.0.0/ts-bloom-filter-probabilistic-1.0.0.tgz",
+      "checksum": "7cbd872a9f3154d7668d4251cf25baa6519a6fc2dfbccc4d47fd0b8d6b15e2cc",
+      "publishedAt": "2025-10-12T06:47:14.862980Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structures",
+          "memory-efficient",
+          "hashing"
+        ],
+        "components": [
+          "data-structure"
+        ],
+        "frameworks": []
       }
     }
   ]
