@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T19:47:36.787950Z",
+  "updated_at": "2025-10-13T20:47:54.082964Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1153,6 +1153,33 @@
           "data-structure"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "memoize-one",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A lightweight TypeScript memoization utility that caches only the most recent function call to improve performance and reduce redundant computations",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/memoize-one-0.1.0/memoize-one-0.1.0.tgz",
+      "checksum": "3136e6d78a91b64310916b21af8711ad5b0ecd91a6d94cdd2f1aa19beb765937",
+      "publishedAt": "2025-10-13T20:47:54.082939Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "memoization",
+          "caching",
+          "performance",
+          "function-caching"
+        ],
+        "frameworks": [
+          "typescript",
+          "javascript"
+        ],
+        "components": [
+          "utilities"
+        ]
       }
     }
   ]
