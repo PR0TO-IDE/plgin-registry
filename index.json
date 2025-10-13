@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T02:48:53.139991Z",
+  "updated_at": "2025-10-13T06:47:13.116596Z",
   "entries": [
     {
       "name": "hero-component",
@@ -981,6 +981,33 @@
         ],
         "components": [
           "plugin"
+        ]
+      }
+    },
+    {
+      "name": "node-rate-limiter",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A generic rate limiter for Node.js applications with token bucket algorithm implementation",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/node-rate-limiter-0.1.0/node-rate-limiter-0.1.0.tgz",
+      "checksum": "0f83be5dabbbdf6dccda1f0208a072a29e0a7119166b0192f4333e8e6ba5f309",
+      "publishedAt": "2025-10-13T06:47:13.116572Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rate-limiting",
+          "throttling",
+          "token-bucket"
+        ],
+        "frameworks": [
+          "node.js",
+          "typescript"
+        ],
+        "components": [
+          "utility",
+          "middleware"
         ]
       }
     }
