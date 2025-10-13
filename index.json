@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T15:49:08.774247Z",
+  "updated_at": "2025-10-13T19:47:36.787950Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1130,6 +1130,29 @@
         "components": [
           "data-structures"
         ]
+      }
+    },
+    {
+      "name": "bloom-filter-dac5666f",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of probabilistic Bloom Filter data structure with bit-level optimizations",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-dac5666f-0.1.0/bloom-filter-dac5666f-0.1.0.tgz",
+      "checksum": "66b1013591a803f6286c644b9198019cfd2eecb74f3ef8191517035c68b6fe2e",
+      "publishedAt": "2025-10-13T19:47:36.787929Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structure",
+          "hash-set-alternative"
+        ],
+        "components": [
+          "data-structure"
+        ],
+        "frameworks": []
       }
     }
   ]
