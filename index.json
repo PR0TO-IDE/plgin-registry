@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T20:47:54.082964Z",
+  "updated_at": "2025-10-13T21:47:34.625244Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1180,6 +1180,30 @@
         "components": [
           "utilities"
         ]
+      }
+    },
+    {
+      "name": "debounce-decorator",
+      "version": "0.1.0",
+      "languages": [
+        "javascript"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/debounce-decorator-0.1.0/debounce-decorator-0.1.0.tgz",
+      "checksum": "603c73007dcd26428c31b60965da34184ef2812d230e2d7c5c3a7145a969b720",
+      "publishedAt": "2025-10-13T21:47:34.625218Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "debounce",
+          "decorator",
+          "performance",
+          "optimization"
+        ],
+        "components": [
+          "javascript"
+        ],
+        "frameworks": []
       }
     }
   ]
