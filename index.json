@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T14:47:53.906259Z",
+  "updated_at": "2025-10-13T15:49:08.774247Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1105,6 +1105,31 @@
           "data-structure"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "bloom-filter-498cb537",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Scalable Python Bloom Filter implementation with memory-efficient storage and probabilistic membership testing",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-498cb537-0.1.0/bloom-filter-498cb537-0.1.0.tgz",
+      "checksum": "b0541ba7df1c5ceb000cc3c419457e2a66d16833b2fb86705addea2e9307c550",
+      "publishedAt": "2025-10-13T15:49:08.774215Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structure",
+          "memory-optimization"
+        ],
+        "frameworks": [
+          "python"
+        ],
+        "components": [
+          "data-structures"
+        ]
       }
     }
   ]
