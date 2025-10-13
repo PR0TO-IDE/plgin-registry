@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-12T19:47:51.252427Z",
+  "updated_at": "2025-10-13T01:47:40.386974Z",
   "entries": [
     {
       "name": "hero-component",
@@ -930,6 +930,32 @@
         ],
         "frameworks": [],
         "components": []
+      }
+    },
+    {
+      "name": "jaccard-distance-rarity",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/jaccard-distance-rarity-0.1.0/jaccard-distance-rarity-0.1.0.tgz",
+      "checksum": "122809009203d15a56d581b2f9478552aa372abe22bddaba32bfc366c00b9537",
+      "publishedAt": "2025-10-13T01:47:40.386942Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "rarity-calculation",
+          "jaccard-distance",
+          "nft-analysis",
+          "attribute-scoring"
+        ],
+        "components": [
+          "algorithm",
+          "crypto",
+          "scoring"
+        ],
+        "frameworks": []
       }
     }
   ]
