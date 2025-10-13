@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T13:48:40.658987Z",
+  "updated_at": "2025-10-13T14:47:53.906259Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1079,6 +1079,30 @@
         ],
         "components": [
           "algorithms"
+        ],
+        "frameworks": []
+      }
+    },
+    {
+      "name": "cuckoo-filter-algorithm",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Cuckoo Filter implementation for probabilistic data structures with collision resolution",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/cuckoo-filter-algorithm-0.1.0/cuckoo-filter-algorithm-0.1.0.tgz",
+      "checksum": "139cc32d5c24b2e70038a1cce02663b4039776187c38c49ddf3b738aa25dc3ff",
+      "publishedAt": "2025-10-13T14:47:53.906232Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "probabilistic-data-structure",
+          "cuckoo-filter",
+          "collision-resolution"
+        ],
+        "components": [
+          "algorithm",
+          "data-structure"
         ],
         "frameworks": []
       }
