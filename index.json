@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T01:47:40.386974Z",
+  "updated_at": "2025-10-13T02:48:53.139991Z",
   "entries": [
     {
       "name": "hero-component",
@@ -956,6 +956,32 @@
           "scoring"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "better-auth-access-control",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Advanced role-based access control plugin for better-auth framework with fine-grained permissions and custom policies",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/better-auth-access-control-0.1.0/better-auth-access-control-0.1.0.tgz",
+      "checksum": "204fdc8d607eac86ef45bb6806adbfa639db0871bbe9ae19c8c3a87ef7c87422",
+      "publishedAt": "2025-10-13T02:48:53.139964Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "access-control",
+          "rbac",
+          "permissions",
+          "authorization"
+        ],
+        "frameworks": [
+          "better-auth"
+        ],
+        "components": [
+          "plugin"
+        ]
       }
     }
   ]
