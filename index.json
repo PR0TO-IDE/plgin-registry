@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T20:46:31.753444Z",
+  "updated_at": "2025-10-14T21:17:34.345154Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1406,6 +1406,18 @@
           "spinner"
         ]
       }
+    },
+    {
+      "name": "snapshot-assertion",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/snapshot-assertion-0.1.0/snapshot-assertion-0.1.0.tgz",
+      "checksum": "bc0cdfc92c8455b159155d8848205222895f35940aa4461ce847eff1a8a18c40",
+      "publishedAt": "2025-10-14T21:17:34.345127Z",
+      "author": "community"
     }
   ]
 }
