@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T04:48:00.556938Z",
+  "updated_at": "2025-10-14T19:56:16.052005Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1306,6 +1306,33 @@
           "data-structures"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "animated-progress-bar",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Python library for creating animated progress bars in CLI applications with real-time throughput, ETA, and customizable animations.",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/animated-progress-bar-0.1.0/animated-progress-bar-0.1.0.tgz",
+      "checksum": "82733bf07c23aaeb1e218dec7b4e1f832d7f6e296393bb84f7109b999fe270a2",
+      "publishedAt": "2025-10-14T19:56:16.051976Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "progress-bar"
+        ],
+        "frameworks": [
+          "python",
+          "cli"
+        ],
+        "features": [
+          "animation",
+          "eta",
+          "throughput",
+          "spinner"
+        ]
       }
     }
   ]
