@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T20:28:41.229173Z",
+  "updated_at": "2025-10-14T20:46:31.753444Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1377,6 +1377,33 @@
           "eta-estimation",
           "throughput-display",
           "terminal-ui"
+        ]
+      }
+    },
+    {
+      "name": "alive-progress-bar-21d63606",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Animated CLI progress bar in Python featuring real-time throughput, ETA, and dynamic animations",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/alive-progress-bar-21d63606-0.1.0/alive-progress-bar-21d63606-0.1.0.tgz",
+      "checksum": "c61eb712802944c2ffbed520fc52d79255e1b5c7b357e1c668c38c120797e75b",
+      "publishedAt": "2025-10-14T20:46:31.753413Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "progress-bar"
+        ],
+        "frameworks": [
+          "python",
+          "cli"
+        ],
+        "features": [
+          "animation",
+          "eta",
+          "throughput",
+          "spinner"
         ]
       }
     }
