@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-13T21:47:34.625244Z",
+  "updated_at": "2025-10-14T00:47:27.778489Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1204,6 +1204,33 @@
           "javascript"
         ],
         "frameworks": []
+      }
+    },
+    {
+      "name": "advanced-bloom-filters",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript implementation of advanced probabilistic data structures: Bloom Filter, Counting Bloom Filter, Partitioned Bloom Filter, Scalable Bloom Filter, and XOR Filter with optimized bit manipulation and mathematical formulas",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/advanced-bloom-filters-0.1.0/advanced-bloom-filters-0.1.0.tgz",
+      "checksum": "1be62ae85e8a025566eb869e4a891d3232589908373d1329c838470cc8bf7436",
+      "publishedAt": "2025-10-14T00:47:27.778456Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "probabilistic-data-structures",
+          "bloom-filter",
+          "counting-filter",
+          "xor-filter",
+          "bit-manipulation"
+        ],
+        "components": [
+          "data-structures"
+        ],
+        "frameworks": [
+          "typescript"
+        ]
       }
     }
   ]
