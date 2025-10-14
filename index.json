@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T00:47:27.778489Z",
+  "updated_at": "2025-10-14T01:47:21.018948Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1230,6 +1230,34 @@
         ],
         "frameworks": [
           "typescript"
+        ]
+      }
+    },
+    {
+      "name": "circuit-breaker-pattern",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "A resilient circuit breaker pattern implementation for fault tolerance and service isolation",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/circuit-breaker-pattern-0.1.0/circuit-breaker-pattern-0.1.0.tgz",
+      "checksum": "13a35ba5bc1edf314d6447af2a93634ef54c2b3ee724600e46ad1d8c674fe378",
+      "publishedAt": "2025-10-14T01:47:21.018923Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "fault-tolerance",
+          "service-isolation",
+          "resilience",
+          "circuit-breaker"
+        ],
+        "frameworks": [
+          "typescript",
+          "nodejs"
+        ],
+        "components": [
+          "middleware",
+          "utilities"
         ]
       }
     }
