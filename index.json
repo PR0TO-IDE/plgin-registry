@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T21:17:34.345154Z",
+  "updated_at": "2025-10-14T21:57:32.770614Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1417,6 +1417,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/snapshot-assertion-0.1.0/snapshot-assertion-0.1.0.tgz",
       "checksum": "bc0cdfc92c8455b159155d8848205222895f35940aa4461ce847eff1a8a18c40",
       "publishedAt": "2025-10-14T21:17:34.345127Z",
+      "author": "community"
+    },
+    {
+      "name": "postgres-job-worker",
+      "version": "0.1.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/postgres-job-worker-0.1.0/postgres-job-worker-0.1.0.tgz",
+      "checksum": "ce26362631bf424a47ef45842d0b000e8f7e97cac87c8b0a25e715fec26c0ea6",
+      "publishedAt": "2025-10-14T21:57:32.770571Z",
       "author": "community"
     }
   ]
