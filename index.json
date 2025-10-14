@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T02:46:50.683185Z",
+  "updated_at": "2025-10-14T04:48:00.556938Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1280,6 +1280,30 @@
           "probabilistic",
           "scalable",
           "bloom-filter"
+        ],
+        "frameworks": []
+      }
+    },
+    {
+      "name": "ts-bloom-filter",
+      "version": "1.0.0",
+      "languages": [
+        "typescript"
+      ],
+      "description": "TypeScript Bloom Filter implementation for efficient probabilistic membership testing",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/ts-bloom-filter-1.0.0/ts-bloom-filter-1.0.0.tgz",
+      "checksum": "1698940672b3c82a33bb57bbc66daf6e256cbc36c1d1a51927ed68c10e2a3a2f",
+      "publishedAt": "2025-10-14T04:48:00.556910Z",
+      "author": "community",
+      "semantic_tags": {
+        "features": [
+          "bloom-filter",
+          "probabilistic-data-structures",
+          "membership-testing",
+          "hashing"
+        ],
+        "components": [
+          "data-structures"
         ],
         "frameworks": []
       }
