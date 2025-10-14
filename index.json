@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T01:47:21.018948Z",
+  "updated_at": "2025-10-14T02:46:50.683185Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1259,6 +1259,29 @@
           "middleware",
           "utilities"
         ]
+      }
+    },
+    {
+      "name": "bloom-filter-258aa66f",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Python implementation of a scalable Bloom Filter for probabilistic data structures",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/bloom-filter-258aa66f-0.1.0/bloom-filter-258aa66f-0.1.0.tgz",
+      "checksum": "be41ae86494d55ad6c8ea3505a0204ef565ec1f05c2278fb8319073f83a1f9a2",
+      "publishedAt": "2025-10-14T02:46:50.683160Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "data-structures"
+        ],
+        "features": [
+          "probabilistic",
+          "scalable",
+          "bloom-filter"
+        ],
+        "frameworks": []
       }
     }
   ]
