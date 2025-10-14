@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T19:56:16.052005Z",
+  "updated_at": "2025-10-14T20:18:43.796184Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1332,6 +1332,27 @@
           "eta",
           "throughput",
           "spinner"
+        ]
+      }
+    },
+    {
+      "name": "nprogress-bar",
+      "version": "0.1.0",
+      "languages": [
+        "javascript"
+      ],
+      "description": "Slim progress bar implementation for web applications with indeterminate loading animation",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/nprogress-bar-0.1.0/nprogress-bar-0.1.0.tgz",
+      "checksum": "6becc4001982579bf89e48a63c807d6bf0425dd26b74cd1a6e2133eb616abd10",
+      "publishedAt": "2025-10-14T20:18:43.796145Z",
+      "author": "community",
+      "semantic_tags": {
+        "components": [
+          "progress-bar"
+        ],
+        "features": [
+          "loading-animation",
+          "ui-component"
         ]
       }
     }
