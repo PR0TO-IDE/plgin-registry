@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-15T00:23:58.971453Z",
+  "updated_at": "2025-10-15T00:37:34.124454Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1465,6 +1465,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/cron-parser-a5b03141-0.1.0/cron-parser-a5b03141-0.1.0.tgz",
       "checksum": "a642994020a545c1a6d8f9fcf2ff1e28e4e7dd349a9e0fb74d2bf55d9ddd5aa9",
       "publishedAt": "2025-10-15T00:23:58.971419Z",
+      "author": "community"
+    },
+    {
+      "name": "django-cron-scheduler",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/django-cron-scheduler-0.1.0/django-cron-scheduler-0.1.0.tgz",
+      "checksum": "f891078129b4b53243530aaced97518aa5902bdcf8cc397aa1408b1635166a4d",
+      "publishedAt": "2025-10-15T00:37:34.124422Z",
       "author": "community"
     }
   ]
