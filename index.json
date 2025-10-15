@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-15T00:37:34.124454Z",
+  "updated_at": "2025-10-15T00:53:49.364102Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1477,6 +1477,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/django-cron-scheduler-0.1.0/django-cron-scheduler-0.1.0.tgz",
       "checksum": "f891078129b4b53243530aaced97518aa5902bdcf8cc397aa1408b1635166a4d",
       "publishedAt": "2025-10-15T00:37:34.124422Z",
+      "author": "community"
+    },
+    {
+      "name": "alive-progress-bar-2c48dda0",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/alive-progress-bar-2c48dda0-0.1.0/alive-progress-bar-2c48dda0-0.1.0.tgz",
+      "checksum": "220669dc97638d4d46f6347d7869ea22dbc888de8e68d601e779dd252213097c",
+      "publishedAt": "2025-10-15T00:53:49.364066Z",
       "author": "community"
     }
   ]
