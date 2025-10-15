@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-14T22:46:16.510668Z",
+  "updated_at": "2025-10-15T00:16:19.243828Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1441,6 +1441,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/django-cronjob-base-0.1.0/django-cronjob-base-0.1.0.tgz",
       "checksum": "f16dce2785ced283fc42a04ea53bcd04d96ce423e3d791a08a31e014ec642328",
       "publishedAt": "2025-10-14T22:46:16.510637Z",
+      "author": "community"
+    },
+    {
+      "name": "cron-parser",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/cron-parser-0.1.0/cron-parser-0.1.0.tgz",
+      "checksum": "cf22f229aa6bb2ce7092d64160ecb393bfe5bdc9aaf3f3b9057491f457edbc8b",
+      "publishedAt": "2025-10-15T00:16:19.243802Z",
       "author": "community"
     }
   ]
