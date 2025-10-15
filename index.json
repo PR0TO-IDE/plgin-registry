@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-15T00:16:19.243828Z",
+  "updated_at": "2025-10-15T00:23:58.971453Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1453,6 +1453,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/cron-parser-0.1.0/cron-parser-0.1.0.tgz",
       "checksum": "cf22f229aa6bb2ce7092d64160ecb393bfe5bdc9aaf3f3b9057491f457edbc8b",
       "publishedAt": "2025-10-15T00:16:19.243802Z",
+      "author": "community"
+    },
+    {
+      "name": "cron-parser-a5b03141",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/cron-parser-a5b03141-0.1.0/cron-parser-a5b03141-0.1.0.tgz",
+      "checksum": "a642994020a545c1a6d8f9fcf2ff1e28e4e7dd349a9e0fb74d2bf55d9ddd5aa9",
+      "publishedAt": "2025-10-15T00:23:58.971419Z",
       "author": "community"
     }
   ]
