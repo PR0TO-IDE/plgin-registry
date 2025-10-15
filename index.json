@@ -1,6 +1,6 @@
 {
   "version": "1.0.0",
-  "updated_at": "2025-10-15T00:53:49.364102Z",
+  "updated_at": "2025-10-15T01:07:21.770222Z",
   "entries": [
     {
       "name": "hero-component",
@@ -1489,6 +1489,18 @@
       "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/alive-progress-bar-2c48dda0-0.1.0/alive-progress-bar-2c48dda0-0.1.0.tgz",
       "checksum": "220669dc97638d4d46f6347d7869ea22dbc888de8e68d601e779dd252213097c",
       "publishedAt": "2025-10-15T00:53:49.364066Z",
+      "author": "community"
+    },
+    {
+      "name": "croniter",
+      "version": "0.1.0",
+      "languages": [
+        "python"
+      ],
+      "description": "Agentic pack generated from prompt: pack_source",
+      "downloadUrl": "https://github.com/PR0TO-IDE/plgin-registry/releases/download/croniter-0.1.0/croniter-0.1.0.tgz",
+      "checksum": "b30138f4e00be4fee8eeac3d54cab98c83af467d6e2e35c1d03d7f9b3e3adbfd",
+      "publishedAt": "2025-10-15T01:07:21.770192Z",
       "author": "community"
     }
   ]
